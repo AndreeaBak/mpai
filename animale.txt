@@ -1,0 +1,2 @@
+beagle,bicolor,10,2
+amstaff,negru,20,5
